@@ -1,0 +1,17 @@
+C:\Users\Anoja\source\repos\AccessLoginApp\AccessLoginApp\bin\Debug\AccessLoginApp.exe.config
+C:\Users\Anoja\source\repos\AccessLoginApp\AccessLoginApp\bin\Debug\AccessLoginApp.exe
+C:\Users\Anoja\source\repos\AccessLoginApp\AccessLoginApp\bin\Debug\AccessLoginApp.pdb
+C:\Users\Anoja\source\repos\AccessLoginApp\AccessLoginApp\obj\Debug\AccessLoginApp.csprojAssemblyReference.cache
+C:\Users\Anoja\source\repos\AccessLoginApp\AccessLoginApp\obj\Debug\AccessLoginApp.Form1.resources
+C:\Users\Anoja\source\repos\AccessLoginApp\AccessLoginApp\obj\Debug\AccessLoginApp.Properties.Resources.resources
+C:\Users\Anoja\source\repos\AccessLoginApp\AccessLoginApp\obj\Debug\AccessLoginApp.csproj.GenerateResource.cache
+C:\Users\Anoja\source\repos\AccessLoginApp\AccessLoginApp\obj\Debug\AccessLoginApp.csproj.CoreCompileInputs.cache
+C:\Users\Anoja\source\repos\AccessLoginApp\AccessLoginApp\obj\Debug\AccessLoginApp.exe
+C:\Users\Anoja\source\repos\AccessLoginApp\AccessLoginApp\obj\Debug\AccessLoginApp.pdb
+C:\Users\Anoja\source\repos\AccessLoginApp\AccessLoginApp\obj\Debug\AccessLoginApp.Form2.resources
+C:\Users\Anoja\source\repos\AccessLoginApp\AccessLoginApp\obj\Debug\AccessLoginApp.DD1.resources
+C:\Users\Anoja\source\repos\AccessLoginApp\AccessLoginApp\obj\Debug\AccessLoginApp.DD2.resources
+C:\Users\Anoja\source\repos\AccessLoginApp\AccessLoginApp\obj\Debug\AccessLoginApp.DD3.resources
+C:\Users\Anoja\source\repos\AccessLoginApp\AccessLoginApp\obj\Debug\AccessLoginApp.Generation_Division.resources
+C:\Users\Anoja\source\repos\AccessLoginApp\AccessLoginApp\obj\Debug\AccessLoginApp.Project_Division.resources
+C:\Users\Anoja\source\repos\AccessLoginApp\AccessLoginApp\obj\Debug\AccessLoginApp.Transmission_Division.resources
